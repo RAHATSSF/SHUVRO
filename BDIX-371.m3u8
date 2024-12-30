@@ -721,17 +721,7 @@ https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/WDpW12r/Jonmobhumi-Logo-2.jpg",Jonmo Bhumi TV
 https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 1
-http://starshare.live:8080/live/Leroy123/Leroy123/136495.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 2
-http://starshare.live:8080/live/Leroy123/Leroy123/136496.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 3
-http://starshare.live:8080/live/Leroy123/Leroy123/136497.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 4
-http://starshare.live:8080/live/Leroy123/Leroy123/136498.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 6
-http://starshare.live:8080/live/Leroy123/Leroy123/136500.ts
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/X8ngLzC/20241006-030742.png",BANGLA MOVIE 7
+
 http://starshare.live:8080/live/Leroy123/Leroy123/136501.ts
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/mHn2Zbm/20240826-230932.png",BANGLA TV EUROPE
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
